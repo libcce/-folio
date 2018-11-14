@@ -43,7 +43,7 @@ November 13, 2018<br />
     * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
     * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Jonathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
     * *Sprinting in Jupyter Through R Track Results*<br />[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
-    * *Lifecycle of an Operations Prototype Notebook*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
+    * *[Everything I wish I knew sooner (so far)](https://github.com/jussmi/triangle-jupyter-day-2018)*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
     * *[Metadata Mission to Jupyter](https://github.com/libcce/TriangleJupyter/blob/master/presentations/Metadata-Mission-to-Jupyter.pdf)*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
     * *Stacking audience models in a notebook*<br />[Alice Broadhead](https://twitter.com/alicebroadhead) (Valassis Digital)  
     * *Stop editing cells! Build a User-Interface for your Notebook*<br />[Greg Frazier](https://www.linkedin.com/in/gnfrazier/) (Performance Bicycle)  
