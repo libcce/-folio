@@ -25,7 +25,7 @@ November 13, 2018<br />
 * 10:45 — 11:00: Morning break
 * 11:00 — 12:00: Talks
     * [*itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*](https://bit.ly/triangle-itk-jupyter-widgets-talk)<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
-    * *Learning in Jupyter*<br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
+    * [*Learning in Jupyter*](https://github.com/pharja4/JupyterDay/blob/master/JupyterNB_Training_JoanPharr.pptx) <br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
 * 12:00 — 13:00: Lunch, announcements
 * 13:00 — 13:55: Short talks
     * [*Have Yourself a Merry Little Notebook*](https://docs.google.com/presentation/d/e/2PACX-1vTkUcBEni7k0htimR4DzceNcN_RSfZMVENpqXYq4DCe_JTs8VnoAnMpRsUoAnQcjMrE6Un_J8xAPqhR/pub)<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)
